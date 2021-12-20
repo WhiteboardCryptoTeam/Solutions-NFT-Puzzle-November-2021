@@ -19,7 +19,7 @@ This puzzle was about the metadata of an image. Every image can contain metadata
 
 In our opinion this was the hardest puzzle to be solved even though it was solved quite quickly. We added an encrypted ZIP file, in binary form, to image 666.png. The data is appended to the image (bytes in the end of the file) so the image is not corrupted. If you open the image in a hex editor you can see data appended to the image since a PNG file ends with "END" normally. You can extract the bytes and save it to a file to have a ZIP file. The ZIP file is password protected though. The password for the zip file was "hidden" in image 700.png. The password can be found in plain-text by opening image 700.png in a text editor and scroll all the way down. All the other images we appended some bogus data to make it a little bit harder.
 
-:checkered_flag: WBC{1M_S0RRY_F0R_TH3_ENCRYPT10N}
+:checkered_flag: WBC{1M_S0RRY_F0R_TH3_ENCRYPT10N}<br>
 :link: No script yet.
 
 # Puzzle 04
