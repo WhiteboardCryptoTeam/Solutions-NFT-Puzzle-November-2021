@@ -5,7 +5,7 @@ This repository contains all scripts to solve the December 2021 NFT puzzle for w
 
 So the first puzzle was the simplest in our opinion, but was the last one to be solved. In the top left corner of the image itself, we added a single pixel to every image for this puzzle which was either red or blue representing either a 0 or 1. Since we said that all flags are in the format WBC{TEXT}, you should know the binary form should be converted to text. So a simple google search with "binary to text" should have been enough. Technically it's binary to ASCII :wink:
 
-Flag: WBC{I_L0VE_P1X3L_4RT_S0_MUCH!1!}<br>
+:checkered_flag: WBC{I_L0VE_P1X3L_4RT_S0_MUCH!1!}<br>
 [Link](https://github.com/WhiteboardCryptoTeam/Solutions-NFT-Puzzle-December-2021/blob/main/WBC%20-%20Solution%20NFT%20Puzzle01%20December%202021.py) to the script. 
 
 # Puzzle 02
